@@ -1,14 +1,19 @@
 {
   "name": "deelaw",
+  "publisher": "deelaw",
   "displayName": "dfoldergen",
   "description": "Create folders and files based on a simple text file",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.95.0"
   },
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeeLaw-01/Dfoldergen.git"
+  },
   "icon": "logo.png",
   "activationEvents": [],
   "main": "./dist/extension.js",
