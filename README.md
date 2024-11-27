@@ -1,11 +1,11 @@
 # Dfoldergen 
 
-## -How to use?
+## How to use?
 Create any .txt file with a folder/file structure. Right-click on it and select "Generate Structure". It will generate the files in the format you specified in the same folder as the .txt file.
 
 Alternatively, press Ctrl+Shift+P to bring up the command palette and select "Generate Structure". It will ask for a .txt file with the defined structure and a destination folder.
 
-## -Why it exists?
+## Why it exists?
 I just started learning NEXT.js and got annoyed with clicking around to make new folder structures. I would rather write them out all at once while thinking rather than adding the buffer of clicking icons :/
 
 ## Features
@@ -15,15 +15,7 @@ Custom Folder/File Format: Specify the folder/file structure in a .txt file usin
 
 ## Example of a .txt
 
-src/
-    index.js
-    [id]/
-        page.tsx
-    newfile.bat
-public/
-    image.tsx
-    hello.js
-
+![Context Menu Execution](https://github.com/DeeLaw-01/Dfilegen/blob/main/images/ContextMenu.png)
 
 # Context Menu
 
