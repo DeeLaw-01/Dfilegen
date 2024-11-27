@@ -15,7 +15,7 @@ Custom Folder/File Format: Specify the folder/file structure in a .txt file usin
 
 ## Example of a .txt
 
-![Context Menu Execution](https://github.com/DeeLaw-01/Dfilegen/blob/main/images/ContextMenu.png)
+![Context Menu Execution](https://github.com/DeeLaw-01/Dfoldergen/blob/main/images/FolderStructure.png)
 
 # Context Menu
 
