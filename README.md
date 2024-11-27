@@ -1,4 +1,4 @@
-# dfoldergen README
+# Dfoldergen 
 
 ## -How to use?
 Create any .txt file with a folder/file structure. Right-click on it and select "Generate Structure". It will generate the files in the format you specified in the same folder as the .txt file.
@@ -27,10 +27,10 @@ public/
 
 # Context Menu
 
-![Context Menu Execution](./images/ContextMenu.png)
+![Context Menu Execution](https://github.com/DeeLaw-01/Dfilegen/blob/main/images/ContextMenu.png)
 
 # Command Pallete
-![Command Pallete Execution](./images/CommandPallete.png)
+![Command Pallete Execution](https://github.com/DeeLaw-01/Dfilegen/blob/main/images/CommandPallete.png)
 
 
 ## Requirements
