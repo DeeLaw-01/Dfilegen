@@ -3,7 +3,7 @@
   "publisher": "deelaw",
   "displayName": "dfoldergen",
   "description": "Create folders and files based on a simple text file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.95.0"
   },
