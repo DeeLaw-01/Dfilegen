@@ -27,7 +27,11 @@ public/
 
 # Context Menu
 
-![Image Alt Text](./images/ContextMenu.png)
+![Context Menu Execution](./images/ContextMenu.png)
+
+# Command Pallete
+![Command Pallete Execution](./images/CommandPallete.png)
+
 
 ## Requirements
 
